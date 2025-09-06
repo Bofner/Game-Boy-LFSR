@@ -15,4 +15,4 @@ You can set and reset taps with the A button, set and rest bits with the B butto
 
 Built using the same base as Space Tonbow, hence some of the Tonbow file names.
 
-スペース蜻蛉のエンジンを使えましたから「Tonbow」って言ファイルがあるかもしれません。
+スペース蜻蛉のエンジンを使えましたから「Tonbow」って言うファイルがあるかもしれません。
